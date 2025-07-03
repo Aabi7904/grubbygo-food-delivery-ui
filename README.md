@@ -1,5 +1,8 @@
 # GrubbyGo - Food Delivery App UI/UX
 
+![Preview of GrubbyGo Food Delivery App UI](./preview.png)
+
+
 🎨 A modern and clean food delivery mobile UI/UX design created using Figma as part of internship task.
 
 ---
